@@ -1,0 +1,6 @@
+{
+  "HIGH_PRIVILEGE": "ζ ≥ 0.75",
+  "MEDIUM_PRIVILEGE": "0.55 ≤ ζ < 0.75",
+  "LOW_PRIVILEGE": "0.30 ≤ ζ < 0.55",
+  "DENY_ACCESS": "ζ < 0.30"
+}
